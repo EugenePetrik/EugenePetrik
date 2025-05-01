@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Yevhen Petryk
 
-<!--
-**EugenePetrik/EugenePetrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior Automation QA Engineer** | 💻 **TypeScript & Node.js Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm a seasoned QA professional with a passion for building robust and scalable test automation frameworks. With a strong foundation in both frontend and backend technologies, I specialize in ensuring software quality through efficient and maintainable automated tests.
+
+- 🔧 **Languages & Tools**: TypeScript, Node.js, Playwright, WebdriverIO, Cypress,Cucumber
+- 🧪 **Testing Expertise**: End-to-End Testing and API Testing
+- 🛠️ **Frameworks**: custom-built test automation frameworks tailored to project needs
+- 📈 **CI/CD**: experience with integrating tests into CI/CD pipelines for seamless deployments
+
+---
+
+## 🚀 Experience Highlights
+
+- **Framework Development**: designed and implemented comprehensive test automation frameworks from scratch, enhancing test coverage and reliability.
+- **Code Quality Advocate**: introduced code analysis tools and best practices to maintain clean and efficient codebases.
+- **Mentorship**: led and mentored a team of AQA engineers, fostering growth and knowledge sharing.
+- **CI Optimization**: streamlined CI configurations, significantly reducing test execution times and improving deployment efficiency.
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yevhen-petryk-1a72a677/)
+
+Feel free to reach out for collaboration, discussions, or just a friendly chat about testing and automation!
+
+---
+
+![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EugenePetrik&show_icons=true&theme=radical)
