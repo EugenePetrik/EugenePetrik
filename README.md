@@ -8,7 +8,7 @@
 
 I'm a seasoned QA professional with a passion for building robust and scalable test automation frameworks. With a strong foundation in both frontend and backend technologies, I specialize in ensuring software quality through efficient and maintainable automated tests.
 
-- 🔧 **Languages & Tools**: TypeScript, Node.js, Playwright, WebdriverIO, Cypress,Cucumber
+- 🔧 **Languages & Tools**: TypeScript, Node.js, Playwright, WebdriverIO, and Cypress
 - 🧪 **Testing Expertise**: End-to-End Testing and API Testing
 - 🛠️ **Frameworks**: custom-built test automation frameworks tailored to project needs
 - 📈 **CI/CD**: experience with integrating tests into CI/CD pipelines for seamless deployments
