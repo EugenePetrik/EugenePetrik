@@ -32,4 +32,6 @@ Feel free to reach out for collaboration, discussions, or just a friendly chat a
 
 ---
 
+[![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/iBrianWarner)
+
 ![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EugenePetrik&show_icons=true&theme=radical)
